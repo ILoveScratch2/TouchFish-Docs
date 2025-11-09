@@ -17,7 +17,7 @@ actions:
 
   - text: 下载
     icon: download
-    link: ./docs/download
+    link: ./guide/download
     
   - text: 查看文档
     icon: book

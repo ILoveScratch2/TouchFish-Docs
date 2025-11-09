@@ -2,7 +2,9 @@
 title: 下载
 icon: download
 category:
-  - 文档
+  - 指南
+  - 下载
+  - 生态
 ---
 
 # 下载 TouchFish
@@ -15,12 +17,29 @@ TouchFish 拥有多个发行版本，各有特色：
 
 - **LTS** - 官方根版本，功能完善，稳定可靠
 - **CLI** - 命令行版本，随官方，适合无 UI 界面的 Linux 服务器
-- **Astra** - 目前最推荐的版本之一，全平台支持，UI 精美，支持 Markdown 和 LaTeX
+- **Astra** - 全平台支持，UI 精美，支持 Markdown 和 LaTeX
 - **UI Remake (TFUR)** - 现代化 UI，支持 Markdown、代码高亮和部分 LaTeX
 - **Pro** - 支持 Markdown 和 LaTeX，有用户高亮功能
 - **More (Lite)** - 更好的性能，更快的下载速度
 - **Plus** - 有更多功能（不兼容）
 - **For Android** - 安卓移动端（已不推荐）
+- **TouchMouse** - 基于 TouchFish 的聊天项目，进行优化和改进（不兼容）
+
+### 其他版本
+
+- **Cloud Studio Chat (CSC)** - 高性能聊天软件，使用 C++ 编写，兼容性强（不兼容）
+
+## 推荐配置
+
+| 使用场景 | 推荐版本 |
+|:---:|:---:|
+| 追求功能完善 | LTS |
+| 追求 UI 美观 | Astra 或 UI Remake |
+| 追求性能速度 | More (Lite) |
+| 服务器运行 | CLI |
+| 移动设备 | Astra |
+| Markdown 支持 | Astra, TFUR, Pro |
+| 全平台兼容 | Astra |
 
 ## 各版本下载
 
@@ -46,7 +65,7 @@ TouchFish 拥有多个发行版本，各有特色：
 
 包含服务端/客户端
 
----
+详细说明见: [LTS 版本说明](./download.html#平台特殊说明) [Wiki](https://github.com/2044-space-elevator/TouchFish/wiki) 以及站点其他文档
 
 ---
 
@@ -120,6 +139,7 @@ TouchFish 拥有多个发行版本，各有特色：
 
 ---
 
+
 ### Plus （不兼容）
 
 
@@ -152,6 +172,26 @@ TouchFish 拥有多个发行版本，各有特色：
 **重要提示：** 不建议使用此版本，建议使用 Astra 版本的 Android 端
 
 ---
+
+### TouchMouse（不兼容）
+
+
+**特点：** 基于 TouchFish 的聊天项目，优化GUI，添加大量功能
+
+**平台**
+- Windows
+
+**注意：** 与 LTS 不兼容
+
+---
+
+### 相关项目
+
+### Cloud Studio Chat (CSC) （不兼容）
+
+如果您追求性能和兼容性，也可以尝试 [Cloud Studio Chat (CSC)](https://github.com/pztsdy/Cloud-Studio-Chat)，这是一个使用 C++ 编写的高性能聊天软件，能在 32 位 XP 上运行，拥有 TouchFish 的大部分功能。
+
+
 
 ## 平台特殊说明
 
@@ -232,29 +272,11 @@ python admin.py
 
 这些版本之间可以互相连接，服务器端和客户端可以使用不同的兼容版本。
 
-**不兼容版本：** Plus
+**不兼容版本：** Plus, TouchMouse
 
 Plus 版本不与其他版本兼容，且不同 Plus 版本之间也不兼容。
+TouchMouse 版本也不与LTS兼容。
 
----
-
-## 推荐配置
-
-| 使用场景 | 推荐版本 |
-|:---:|:---:|
-| 追求功能完善 | LTS |
-| 追求 UI 美观 | Astra 或 UI Remake |
-| 追求性能速度 | More (Lite) |
-| 服务器运行 | CLI |
-| 移动设备 | Astra |
-| Markdown 支持 | Astra, TFUR, Pro |
-| 全平台兼容 | Astra |
-
----
-
-## 相关项目
-
-如果您追求性能和兼容性，也可以尝试 [Cloud Studio Chat (CSC)](https://github.com/pztsdy/Cloud-Studio-Chat)，这是一个使用 C++ 编写的高性能聊天软件，能在 32 位 XP 上运行，拥有 TouchFish 的大部分功能。
 
 ---
 
