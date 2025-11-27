@@ -51,6 +51,7 @@ TouchFish 拥有多个发行版本，各有特色：
 
 **下载地址：**
 - [GitHub Releases](https://github.com/2044-space-elevator/TouchFish/releases)
+- [镜像站](https://mirror.ilovescratch.dpdns.org/)
 
 **平台**
 - Windows
@@ -77,6 +78,7 @@ TouchFish 拥有多个发行版本，各有特色：
 
 **下载地址：**
 - [GitHub Releases](https://github.com/pztsdy/touchfish_ui_remake/releases)
+- [镜像站](https://mirror.ilovescratch.dpdns.org/)
 
 **平台**
 - Windows
@@ -115,6 +117,7 @@ TouchFish 拥有多个发行版本，各有特色：
 
 **下载地址：**
 - [GitHub 源码](https://github.com/PigeonTechGroup/TouchFishPro/)
+- [镜像站](https://mirror.ilovescratch.dpdns.org/)
 
 **平台**
 - Windows（需自行编译/打包）
@@ -131,6 +134,7 @@ TouchFish 拥有多个发行版本，各有特色：
 
 **下载地址：**
 - [Gitee 仓库](https://gitee.com/xx2870/touchfish_more/releases)
+- [镜像站](https://mirror.ilovescratch.dpdns.org/)
 
 **平台**
 - Windows（有待查证/补充）
@@ -147,6 +151,7 @@ TouchFish 拥有多个发行版本，各有特色：
 
 **下载地址：**
 - [GitHub Releases](https://github.com/2044-space-elevator/TouchFishPlus/releases)
+- [镜像站](https://mirror.ilovescratch.dpdns.org/)
 
 **平台**
 - Windows（需自行编译/打包）
@@ -177,6 +182,11 @@ TouchFish 拥有多个发行版本，各有特色：
 
 
 **特点：** 基于 TouchFish 的聊天项目，优化GUI，添加大量功能
+
+
+**下载地址：**
+- [官方网站](https://github.com/mouse-m/TouchMouse)
+- [镜像站](https://mirror.ilovescratch.dpdns.org/)
 
 **平台**
 - Windows

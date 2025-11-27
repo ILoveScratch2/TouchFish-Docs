@@ -6,11 +6,12 @@ icon: lightbulb
 ## 关于 TouchFish
 
 **TouchFish** 是一款专为局域网环境打造的轻量级聊天软件
-### 💡 诞生背景
+
+### 诞生背景
 
 在学校机房等断网环境下，传统的 QQ、微信等聊天工具无法使用。TouchFish 应运而生，它只需要局域网就能工作，也可在公网使用。
 
-### 🎯 设计理念
+### 设计理念
 
 - **简单** - 功能精简，专注聊天本身
 - **轻量** - 体积小，占用资源少
@@ -20,7 +21,7 @@ icon: lightbulb
 
 ---
 
-## ⚠️ 重要提示
+## 重要提示
 
 ::: warning Windows 7 及以下系统
 使用 Windows 7（及更早版本）的用户可能需要额外安装 DLL 文件才能正常运行。
@@ -35,7 +36,7 @@ icon: lightbulb
 ::: warning Linux 用户注意
 本软件需要 GUI 界面才能运行。
 
-如果你使用的是无 GUI 的 Linux 服务器，请使用 [CLI 命令行版本](./guide/download#cli)。
+如果你使用的是无 GUI 的 Linux 服务器，请使用 [CLI 命令行版本](./download.md#cli-官方版)。
 :::
 
 ::: tip 给贡献者
@@ -62,6 +63,25 @@ CSC 的特点：
 
 ~~也只能是设想~~
 :::
+
+
+## 社区资源
+
+### 官方资源
+
+- [官方网站](https://www.bopid.cn/chat)
+- [GitHub 仓库](https://github.com/2044-space-elevator/TouchFish)
+- [官方 Wiki](https://github.com/2044-space-elevator/TouchFish/wiki)
+- [镜像站](https://mirror.ilovescratch.dpdns.org/)
+
+### 版本仓库
+
+- **LTS**：[2044-space-elevator/TouchFish](https://github.com/2044-space-elevator/TouchFish)
+- **Astra**：[ILoveScratch2/TouchFish-Astra](https://github.com/ILoveScratch2/TouchFish-Astra)
+- **UI Remake**：[pztsdy/touchfish_ui_remake](https://github.com/pztsdy/touchfish_ui_remake)
+- **Plus**：[2044-space-elevator/TouchFishPlus](https://github.com/2044-space-elevator/TouchFishPlus)
+- **Pro**：[PigeonTechGroup/TouchFishPro](https://github.com/PigeonTechGroup/TouchFishPro)
+
 
 ---
 

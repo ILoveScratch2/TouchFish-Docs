@@ -72,7 +72,7 @@ highlights:
 
       - title: Pro 版
         icon: crown
-        details: 功能增强，Markdown、LaTeX、用户高亮一应俱全（不兼容）
+        details: 功能增强，Markdown、LaTeX、用户高亮一应俱全
 
       - title: More(Lite) 版
         icon: gauge-high
