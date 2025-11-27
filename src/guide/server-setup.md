@@ -299,20 +299,6 @@ sudo firewall-cmd --reload
 
 服务器启动后，在控制台提示符 `IP:PORT>` 后可以输入命令。
 
-### 常用命令速览
-
-| 命令 | 功能 | 示例 |
-|------|------|------|
-| `help` | 显示帮助 | `help` |
-| `search` | 搜索用户 | `search online` |
-| `broadcast` | 广播消息 | `broadcast 服务器将在 5 分钟后重启` |
-| `ban` | 封禁管理 | `ban ip add 192.168.1.100` |
-| `set` | 设置配置 | `set SHOW_ENTER_MESSAGE on` |
-| `accept` | 接受请求 | `accept 0` |
-| `reject` | 拒绝请求 | `reject 0` |
-| `req` | 查看请求 | `req` |
-| `admin` | 管理员模式 | `admin on` |
-| `exit` | 关闭服务器 | `exit` |
 
 ::: tip 查看详细文档
 完整的命令参考请查看[服务器命令文档](../docs/server-commands.md)
