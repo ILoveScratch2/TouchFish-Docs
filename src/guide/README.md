@@ -19,6 +19,8 @@ icon: lightbulb
 - **开源** - 代码开放，欢迎改进
 
 
+主仓库：[GitHub 2044-space-elevator/TouchFish](https://github.com/2044-space-elevator/TouchFish)
+
 ---
 
 ## 重要提示
@@ -36,7 +38,7 @@ icon: lightbulb
 ::: warning Linux 用户注意
 本软件需要 GUI 界面才能运行。
 
-如果你使用的是无 GUI 的 Linux 服务器，请使用 [CLI 命令行版本](./download.md#cli-官方版)。
+如果你使用的是无 GUI 的服务器，请使用 [CLI 命令行版本](./guide/download#cli)。
 :::
 
 ::: tip 给贡献者
@@ -63,25 +65,6 @@ CSC 的特点：
 
 ~~也只能是设想~~
 :::
-
-
-## 社区资源
-
-### 官方资源
-
-- [官方网站](https://www.bopid.cn/chat)
-- [GitHub 仓库](https://github.com/2044-space-elevator/TouchFish)
-- [官方 Wiki](https://github.com/2044-space-elevator/TouchFish/wiki)
-- [镜像站](https://mirror.ilovescratch.dpdns.org/)
-
-### 版本仓库
-
-- **LTS**：[2044-space-elevator/TouchFish](https://github.com/2044-space-elevator/TouchFish)
-- **Astra**：[ILoveScratch2/TouchFish-Astra](https://github.com/ILoveScratch2/TouchFish-Astra)
-- **UI Remake**：[pztsdy/touchfish_ui_remake](https://github.com/pztsdy/touchfish_ui_remake)
-- **Plus**：[2044-space-elevator/TouchFishPlus](https://github.com/2044-space-elevator/TouchFishPlus)
-- **Pro**：[PigeonTechGroup/TouchFishPro](https://github.com/PigeonTechGroup/TouchFishPro)
-
 
 ---
 

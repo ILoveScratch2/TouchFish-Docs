@@ -97,7 +97,7 @@ TouchFish 拥有多个发行版本，各有特色：
 
 **下载地址：**
 - [GitHub Releases](https://github.com/ILoveScratch2/TouchFish-Astra/releases)
-
+- [镜像站](https://mirror.ilovescratch.dpdns.org/)
 
 **平台**
 - Windows
@@ -159,6 +159,8 @@ TouchFish 拥有多个发行版本，各有特色：
 - Linux（需自行编译/打包）
 
 **注意：** 不同 Plus 版本之间不兼容，且与 LTS 不兼容
+
+~~基本弃坑~~
 
 ---
 
@@ -247,11 +249,7 @@ TouchFish 拥有多个发行版本，各有特色：
 ### 安装依赖
 
 ```bash
-# Windows
 pip install -r requirements.txt
-
-# Linux
-pip install -r requirements_linux.txt
 ```
 
 ### 运行服务器端
