@@ -61,7 +61,7 @@ python chat.py
 | 命令 | 功能 | 示例 |
 |------|------|------|
 | `broadcast` | 广播消息 | `broadcast 通知内容` |
-| `ban` | 封禁管理 | `ban ip add 192.168.1.110` |
+| `ban` | 封禁管理 | `ban ip 192.168.1.110` |
 | `enable` | 解除禁用 | `enable ip 114.51.4.1` |
 | `set` | 设置配置 | `set EAP on` |
 | `accept` | 接受请求 | `accept 0` |
