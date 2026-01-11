@@ -1,0 +1,81 @@
+/* var.css */
+:root {
+  --vp-c-brand-1: #18794e;
+  --vp-c-brand-2: #299764;
+  --vp-c-brand-3: #30a46c;
+}
+
+.dark {
+  --vp-c-brand-1: #3dd68c;
+  --vp-c-brand-2: #30a46c;
+  --vp-c-brand-3: #298459;
+}
+/* 以前的vp-c-brand已弃用 */
+
+/* 彩虹渐变动画 */
+@keyframes rainbow-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes rainbow-rotate {
+  0% {
+    filter: blur(60px) hue-rotate(0deg);
+  }
+  100% {
+    filter: blur(60px) hue-rotate(360deg);
+  }
+}
+
+:root {
+  /* hero标题渐变色 */
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(120deg, #d8b4fe, #93d5ff, #a3f5d0, #ffd6a5, #ffb3d9, #d8b4fe);
+
+  /*hero logo背景渐变色 */
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #d8b4fe, #a3e0ff, #b4f8e8, #ffd6a5);
+  --vp-home-hero-image-filter: blur(60px);
+}
+
+/* 应用动画到hero名称 */
+.VPHero .name {
+  background: linear-gradient(120deg, #d8b4fe, #93d5ff, #a3f5d0, #ffd6a5, #ffb3d9, #d8b4fe);
+  background-size: 300% 300%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow-animation 8s ease infinite;
+}
+
+/* 应用动画到hero图片背景容器，而不是图片本身 */
+.VPHero .image-bg {
+  animation: rainbow-rotate 15s linear infinite;
+}
+
+/* 确保logo图片在最上层 */
+.VPHero .VPImage {
+  position: relative;
+  z-index: 2;
+}
+
+/* 也可自行单独修改brand按钮 */
+/* :root {
+  --vp-button-brand-border: #F6CEEC;
+  --vp-button-brand-text: #F6CEEC;
+  --vp-button-brand-bg: #D939CD;
+
+  --vp-button-brand-hover-border: #F6CEEC;
+  --vp-button-brand-hover-text: #fff;
+  --vp-button-brand-hover-bg: #D939CD;
+
+  --vp-button-brand-active-border: #F6CEEC;
+} */
+
+/* 内容页面标题保持默认样式，不应用彩虹效果 */
