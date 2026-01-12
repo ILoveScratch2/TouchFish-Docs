@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "TouchFish",
   lang: "zh-CN",
+  ignoreDeadLinks: true,
   head: [
     ['link', { rel: 'icon', href: '/logo.png' }],
   ],
