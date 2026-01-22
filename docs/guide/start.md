@@ -4,6 +4,10 @@ title: 快速开始
 
 # 快速开始
 
+## 下载 TouchFish
+
+参见 [下载](/guide/download.html)
+
 ## 作为服务端（创建聊天室）
 
 ### 获取内网 IP 地址
