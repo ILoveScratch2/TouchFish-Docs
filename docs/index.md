@@ -12,13 +12,13 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /guide
+      link: /guide/start
     - theme: alt
       text: 下载
       link: /guide/download
     - theme: alt
-      text: 查看文档
-      link: /docs
+      text: 关于 TouchFish
+      link: /guide
 
 
 features:
