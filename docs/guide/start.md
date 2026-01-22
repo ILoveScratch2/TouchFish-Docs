@@ -25,7 +25,7 @@ Linux/macOS：`netstat -an | grep <端口号> 或 lsof -i :<端口号>`
 ### 启动服务器
 
 1. 运行 TouchFish 程序
-2. 按下 <Enter> 键开始配置
+2. 按下 \<Enter\> 键开始配置
 3. 选择启动方式为 `Server`
 4. 输入您的内网 IP 地址
 5. 指定一个可用的端口号
@@ -34,7 +34,7 @@ Linux/macOS：`netstat -an | grep <端口号> 或 lsof -i :<端口号>`
 8. 将 IP 地址和端口信息分享给其他用户
 
 ### 后续启动
-运行程序后，根据提示按下 <Ctrl + C> (Windows/Linux) 或 <Ctrl + D> (macOS)
+运行程序后，根据提示按下 \<Ctrl + C\> (Windows/Linux) 或 \<Ctrl + D\> (macOS)
 
 程序将自动使用上次的配置启动服务器
 
@@ -43,7 +43,7 @@ Linux/macOS：`netstat -an | grep <端口号> 或 lsof -i :<端口号>`
 ### 首次连接
 
 1. 运行 TouchFish 程序
-2. 按下 Enter 键开始配置
+2. 按下 \<Enter\> 键开始配置
 3. 选择启动方式为 Client
 4. 输入服务器提供的 IP 地址
 5. 输入服务器提供的端口号
@@ -51,7 +51,7 @@ Linux/macOS：`netstat -an | grep <端口号> 或 lsof -i :<端口号>`
 
 ### 后续连接
 
-运行程序后，根据提示按下 <Ctrl + C> (Windows/Linux) 或 <Ctrl + D> (macOS)
+运行程序后，根据提示按下 \<Ctrl + C\> (Windows/Linux) 或 \<Ctrl + D\> (macOS)
 
 程序将自动使用上次的配置连接服务器
 
