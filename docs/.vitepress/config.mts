@@ -21,6 +21,7 @@ export default defineConfig({
         text: '教程',
         items: [
           { text: 'TouchFish', link: '/guide/' },
+          { text: 'TouchFish V5', link: '/guide/v5' },
           { text: '快速开始', link: '/guide/start'},
           { text: '下载', link: '/guide/download' }
         ]
