@@ -281,6 +281,6 @@ Plus 版本不与其他版本兼容，且不同 Plus 版本之间也不兼容。
 3. 加入社区寻求帮助
 
 > [!TIP]
-> 贡献者注意
+> 贡献者注意  
 > 感谢您对 TouchFish 的贡献！在开始贡献前，请先阅读 [贡献者须知](https://github.com/TouchFishGJ/TouchFish/blob/main/CONTRIBUTING.md)，防止您的努力打水漂。
 
