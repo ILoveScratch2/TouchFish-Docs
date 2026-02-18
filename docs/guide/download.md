@@ -44,8 +44,7 @@ TouchFish 拥有多个发行版本，各有特色：
 
 **下载地址：**
 - [GitHub Releases](https://github.com/TouchFishGJ/TouchFish/releases)
-- [镜像站](https://us.ci/TouchFish)
-
+- [镜像站](https://mirror.ilovescratch.us.ci/TouchFish/LTS/)
 **平台**
 - Windows
 - MacOS
@@ -71,7 +70,7 @@ TouchFish 拥有多个发行版本，各有特色：
 
 **下载地址：**
 - [GitHub Releases](https://github.com/TouchFishGJ/TFUI-Remake/releases)
-- [镜像站](https://us.ci/TFUI-Remake)
+- [镜像站](https://mirror.ilovescratch.us.ci/TouchFish/UI%20Remake/)
 
 **平台**
 - Windows
@@ -90,7 +89,7 @@ TouchFish 拥有多个发行版本，各有特色：
 
 **下载地址：**
 - [GitHub Releases](https://github.com/TouchFishGJ/TouchFish-Astra/releases)
-- [镜像站](https://us.ci/TouchFish-Astra)
+- [镜像站](https://mirror.ilovescratch.us.ci/TouchFish/Astra)
 
 **平台**
 - Windows
@@ -111,7 +110,7 @@ TouchFish 拥有多个发行版本，各有特色：
 
 **下载地址：**
 - [GitHub 源码](https://github.com/TouchFishGJ/TouchFish-Pro)
-- [镜像站](https://us.ci/TouchFish-Pro)
+- [镜像站](https://mirror.ilovescratch.us.ci/TouchFish/Pro%20(%E6%BA%90%E4%BB%A3%E7%A0%81)/)
 
 **平台**
 - Windows（需自行编译/打包）
@@ -131,12 +130,12 @@ TouchFish 拥有多个发行版本，各有特色：
 
 **下载地址：**
 - [Gitee 仓库](https://gitee.com/TouchFishGJ/TouchFish-More)
-- [镜像站](https://us.ci/TouchFish-More)
+- [镜像站](https://mirror.ilovescratch.us.ci/TouchFish/More(Lite)/)
 
 **平台**
-- Windows（有待查证/补充）
-- MacOS（有待查证/补充）
-- Linux (需图形界面发行版)
+- Windows
+- MacOS
+- Linux
 
 ---
 
@@ -149,7 +148,7 @@ TouchFish 拥有多个发行版本，各有特色：
 
 **下载地址：**
 - [GitHub Releases](https://github.com/TouchFishGJ/TouchFish-Plus/releases)
-- [镜像站](https://us.ci/TouchFish-Plus)
+- [镜像站](https://mirror.ilovescratch.us.ci/TouchFish/Plus%20(%E6%BA%90%E4%BB%A3%E7%A0%81)/)
 
 **平台**
 - Windows（需自行编译/打包）
@@ -172,7 +171,7 @@ TouchFish 拥有多个发行版本，各有特色：
 **特点：** 移动端支持，但容易被国产安卓杀进程
 
 **下载地址：**
-- [官方网站](https://touchfish.us.ci)
+- 无
 
 **平台**
 - Android
@@ -195,8 +194,8 @@ TouchFish 拥有多个发行版本，各有特色：
 **特点：** 基于 TouchFish 的聊天项目，优化GUI，添加大量功能
 
 **下载地址：**
-- [官方网站](https://touchmouse.us.ci)
-- [镜像站](https://us.ci/TouchMouse)
+- [官方网站](https://touchmouse.mirror.ilovescratch.us.ci)
+- [镜像站](https://mirror.ilovescratch.us.ci/TouchMouse)
 
 **平台**
 - Windows
