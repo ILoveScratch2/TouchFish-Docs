@@ -35,19 +35,19 @@ TouchFish 拥有多个发行版本，各有特色：
 
 ## 各版本下载
 
-### LTS（官方版，包含 CLI 版本）
+### LTS（官方版）
 
-**支持平台**：Windows、macOS、Linux（需图形界面）
+**支持平台**：Windows、macOS、Linux（\~v3 需图形界面）
 
 **特点**：根版本，功能完善，与兼容版本互通。
 
 **下载地址**：
-- [GitHub Releases](https://github.com/ILoveScratch2/TouchFish/releases)
+- [GitHub Releases](https://github.com/2044-space-elevator/TouchFish/releases)
 - [镜像站](https://mirror.ilovescratch.us.ci/TouchFish/LTS/)
 
 **包含组件**：LTS.py / LTS.exe / LTS（服务器/客户端二合一）
 
-详细说明请参阅 [LTS 版本说明 Wiki](https://github.com/ILoveScratch2/TouchFish/wiki/LTS) 及站点其他文档。
+详细说明请参阅 [LTS 版本说明 Wiki](https://github.com/2044-space-elevator/TouchFish/wiki/LTS) 及站点其他文档。
 
 ---
 
@@ -72,7 +72,7 @@ TouchFish 拥有多个发行版本，各有特色：
 **特点**：更好的性能，更快的下载速度，**完全兼容 TouchFish V4 协议**。
 
 **下载地址**：
-- [Gitee 仓库](https://gitee.com/ILoveScratch2/TouchFish-More)
+- [Gitee 仓库](https://gitee.com/xx2870/TouchFish-More)
 - [镜像站](https://mirror.ilovescratch.us.ci/TouchFish/More(Lite)/)
 
 ---
@@ -87,7 +87,7 @@ TouchFish 拥有多个发行版本，各有特色：
 **特点**：现代化 UI，支持 Markdown、代码高亮和部分 LaTeX。
 
 **下载地址**：
-- [GitHub Releases](https://github.com/ILoveScratch2/TFUI-Remake/releases)
+- [GitHub Releases](https://github.com/pztsdy/touchfish_ui_remake/releases)
 - [镜像站](https://mirror.ilovescratch.us.ci/TouchFish/UI%20Remake/)
 
 **包含组件**：仅客户端。
@@ -102,7 +102,7 @@ TouchFish 拥有多个发行版本，各有特色：
 **特点**：支持 Markdown，提供基本的 LaTeX 支持和用户高亮功能（无预编译二进制文件）。
 
 **下载地址**：
-- [GitHub 源码](https://github.com/ILoveScratch2/TouchFish-Pro)
+- [GitHub 源码](https://github.com/PigeonTechGroup/TouchFish-Pro)
 - [镜像站](https://mirror.ilovescratch.us.ci/TouchFish/Pro%20(%E6%BA%90%E4%BB%A3%E7%A0%81)/)
 
 **平台**：Windows、macOS、Linux（均需自行编译/打包）
@@ -117,7 +117,7 @@ TouchFish 拥有多个发行版本，各有特色：
 **特点**：功能扩展版本，提供更多特性。
 
 **下载地址**：
-- [GitHub Releases](https://github.com/ILoveScratch2/TouchFish-Plus/releases)
+- [GitHub Releases](https://github.com/2044-space-elevator/TouchFish-Plus/releases)
 - [镜像站](https://mirror.ilovescratch.us.ci/TouchFish/Plus%20(%E6%BA%90%E4%BB%A3%E7%A0%81)/)
 
 **平台**：Windows、macOS、Linux（均需自行编译/打包）
@@ -142,7 +142,7 @@ TouchFish 拥有多个发行版本，各有特色：
 **特点**：基于 TouchFish 的聊天项目，优化了 GUI 并添加了大量功能。
 
 **下载地址**：
-- [官方网站](https://touchmouse.mirror.ilovescratch.us.ci)
+- [GitHub Releases](https://github.com/mouse-m/TouchMouse)
 - [镜像站](https://mirror.ilovescratch.us.ci/TouchMouse)
 
 **平台**：Windows
@@ -170,7 +170,7 @@ TouchFish 拥有多个发行版本，各有特色：
 
 | 兼容类型               | 版本                                                         |
 | ---------------------- | ------------------------------------------------------------ |
-| 兼容 V3 协议           | LTS、CLI、UI Remake、Pro、More、For Android、Astra           |
+| 兼容 V3 协议           | LTS、UI Remake、Pro、More、For Android、Astra           |
 | 兼容 V4 协议           | LTS、Astra、More                                             |
 | 不兼容 V3 协议         | Plus                                                         |
 | 不兼容（相关软件）     | Cloud Studio Chat (CSC)、TouchMouse                          |
